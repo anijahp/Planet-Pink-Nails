@@ -1,0 +1,22 @@
+div.a {
+        text-align: center
+}
+body { background-color:#f4ffe4;
+       color:#333333;
+       background-image: url(background.png);
+       background: url(trilliumfoot.gif) no-repeat right bottom,
+	   url(background.png);
+}
+h1 { background-image: url(banner.jpg);  
+     color:#5c743d;
+	 height:86px;
+}
+h2 { background-color:#de7fed;
+     color:#ffff00;
+     background-repeat: no-repeat; 
+	 padding-left: 30px;
+
+}
+ul { list-style-image: url(bullet.png); }
+main { background-image: url(image.png);
+       background-repeat: no-repeat;
